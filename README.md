@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hoping to empower future engineers one person at a time. 
+Empowering future engineers one person at a time. 
 
 <!--
 **a2937/a2937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
